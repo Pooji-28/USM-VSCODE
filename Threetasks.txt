@@ -1,0 +1,4 @@
+I Learned
+   #how to change default colours in storiesonboard
+   #how to create new cards in the story mapping
+   #how to edit those changes in the story mapping
